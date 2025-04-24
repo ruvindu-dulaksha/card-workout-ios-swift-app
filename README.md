@@ -7,7 +7,7 @@ This is a fun and simple iOS app built with Swift and Storyboard. It randomly di
 
 ## 📱 Screenshot
 
-<img src="Screenshot 2025-04-24 at 7.13.48 PM.png" alt="Card Switch App Screenshot" width="300"/>
+<img src="Screenshot 2025-04-24 at 7.13.48ΓÇ»PM.png" alt="Card Switch App Screenshot" width="300"/>
 
 ## ✨ Features
 
